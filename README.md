@@ -89,7 +89,6 @@ HLT
 
 ## Output  
 
- ![image](https://github.com/user-attachments/assets/9c1fd3e5-5bcd-41b2-8657-b20162956f59)
 
 ## Subtraction   of 8 bit numbers  ALP 
 
@@ -114,7 +113,8 @@ HLT
 
  ## Output  
 
-![image](https://github.com/user-attachments/assets/4bad67b1-5f83-4128-bf46-b03ace8ced30)
+![image](https://github.com/user-attachments/assets/595e5362-9a59-4216-bb3e-0bfd87212ca2)
+
 
 ## Division alp 
 ```
@@ -126,7 +126,8 @@ HLT
 
 ## Output  
 
-![image](https://github.com/user-attachments/assets/dbb08bcd-2434-4f67-99c0-761864b7d7a9)
+![image](https://github.com/user-attachments/assets/3337b00e-c86c-4e8a-b198-9fb495ec38a8)
+
 
 ## Programs for logical operations
 ## AND 
@@ -138,7 +139,7 @@ HLT
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/d575fde3-ff46-47a0-96cd-b62efbc333db)
+
 
 ## OR 
 ```
@@ -149,7 +150,7 @@ HLT
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/878ed738-7855-4d65-a05c-033532f2d61b)
+![Uploading image.png…]()
 
 ## NOT 
 ```
